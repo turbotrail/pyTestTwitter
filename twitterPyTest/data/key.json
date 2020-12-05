@@ -1,0 +1,8 @@
+{
+    "user1":{
+            "apikey":"XXXXXXXXXXXXXXXX",
+            "apisecretkey":"XXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "accesstoken":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+            "accesstokensecret":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+        }
+}
