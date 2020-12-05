@@ -14,7 +14,7 @@ def test_loadCred():
 
 def test_createTweet():
     global id
-    id=twitterAPI.postTweet(credobj,username,"My Twitter test")
+    id=twitterAPI.postTweet(credobj,username,"We welcome you to MSD family :)")
     print("Tweet with id: "+id+" created successfully")
 
 def test_reTweet():
